@@ -1,0 +1,14 @@
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_001\obj\Debug\net7.0\task_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_001\obj\Debug\net7.0\task_001.AssemblyInfoInputs.cache
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_001\obj\Debug\net7.0\task_001.AssemblyInfo.cs
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_001\obj\Debug\net7.0\task_001.csproj.CoreCompileInputs.cache
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_001\bin\Debug\net7.0\task_001.exe
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_001\bin\Debug\net7.0\task_001.deps.json
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_001\bin\Debug\net7.0\task_001.runtimeconfig.json
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_001\bin\Debug\net7.0\task_001.dll
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_001\bin\Debug\net7.0\task_001.pdb
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_001\obj\Debug\net7.0\task_001.dll
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_001\obj\Debug\net7.0\refint\task_001.dll
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_001\obj\Debug\net7.0\task_001.pdb
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_001\obj\Debug\net7.0\task_001.genruntimeconfig.cache
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_001\obj\Debug\net7.0\ref\task_001.dll

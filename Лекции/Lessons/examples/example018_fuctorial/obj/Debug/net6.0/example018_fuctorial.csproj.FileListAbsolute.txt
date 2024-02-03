@@ -1,0 +1,15 @@
+C:\Users\v6765\Desktop\Lessons\examples\example018_fuctorial\obj\Debug\net6.0\example018_fuctorial.csproj.AssemblyReference.cache
+C:\Users\v6765\Desktop\Lessons\examples\example018_fuctorial\obj\Debug\net6.0\example018_fuctorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v6765\Desktop\Lessons\examples\example018_fuctorial\obj\Debug\net6.0\example018_fuctorial.AssemblyInfoInputs.cache
+C:\Users\v6765\Desktop\Lessons\examples\example018_fuctorial\obj\Debug\net6.0\example018_fuctorial.AssemblyInfo.cs
+C:\Users\v6765\Desktop\Lessons\examples\example018_fuctorial\obj\Debug\net6.0\example018_fuctorial.csproj.CoreCompileInputs.cache
+C:\Users\v6765\Desktop\Lessons\examples\example018_fuctorial\bin\Debug\net6.0\example018_fuctorial.exe
+C:\Users\v6765\Desktop\Lessons\examples\example018_fuctorial\bin\Debug\net6.0\example018_fuctorial.deps.json
+C:\Users\v6765\Desktop\Lessons\examples\example018_fuctorial\bin\Debug\net6.0\example018_fuctorial.runtimeconfig.json
+C:\Users\v6765\Desktop\Lessons\examples\example018_fuctorial\bin\Debug\net6.0\example018_fuctorial.dll
+C:\Users\v6765\Desktop\Lessons\examples\example018_fuctorial\bin\Debug\net6.0\example018_fuctorial.pdb
+C:\Users\v6765\Desktop\Lessons\examples\example018_fuctorial\obj\Debug\net6.0\example018_fuctorial.dll
+C:\Users\v6765\Desktop\Lessons\examples\example018_fuctorial\obj\Debug\net6.0\refint\example018_fuctorial.dll
+C:\Users\v6765\Desktop\Lessons\examples\example018_fuctorial\obj\Debug\net6.0\example018_fuctorial.pdb
+C:\Users\v6765\Desktop\Lessons\examples\example018_fuctorial\obj\Debug\net6.0\example018_fuctorial.genruntimeconfig.cache
+C:\Users\v6765\Desktop\Lessons\examples\example018_fuctorial\obj\Debug\net6.0\ref\example018_fuctorial.dll

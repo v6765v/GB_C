@@ -1,0 +1,14 @@
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_003\bin\Debug\net7.0\task_003.exe
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_003\bin\Debug\net7.0\task_003.deps.json
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_003\bin\Debug\net7.0\task_003.runtimeconfig.json
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_003\bin\Debug\net7.0\task_003.dll
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_003\bin\Debug\net7.0\task_003.pdb
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_003\obj\Debug\net7.0\task_003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_003\obj\Debug\net7.0\task_003.AssemblyInfoInputs.cache
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_003\obj\Debug\net7.0\task_003.AssemblyInfo.cs
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_003\obj\Debug\net7.0\task_003.csproj.CoreCompileInputs.cache
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_003\obj\Debug\net7.0\task_003.dll
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_003\obj\Debug\net7.0\refint\task_003.dll
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_003\obj\Debug\net7.0\task_003.pdb
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_003\obj\Debug\net7.0\task_003.genruntimeconfig.cache
+C:\Users\v6765\Desktop\Sem_C#\seminars\sem7\task_003\obj\Debug\net7.0\ref\task_003.dll

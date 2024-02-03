@@ -1,0 +1,15 @@
+C:\Users\v6765\Desktop\Lessons\examples\example013_task1_editText\obj\Debug\net6.0\example013_task1_editText.csproj.AssemblyReference.cache
+C:\Users\v6765\Desktop\Lessons\examples\example013_task1_editText\obj\Debug\net6.0\example013_task1_editText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v6765\Desktop\Lessons\examples\example013_task1_editText\obj\Debug\net6.0\example013_task1_editText.AssemblyInfoInputs.cache
+C:\Users\v6765\Desktop\Lessons\examples\example013_task1_editText\obj\Debug\net6.0\example013_task1_editText.AssemblyInfo.cs
+C:\Users\v6765\Desktop\Lessons\examples\example013_task1_editText\obj\Debug\net6.0\example013_task1_editText.csproj.CoreCompileInputs.cache
+C:\Users\v6765\Desktop\Lessons\examples\example013_task1_editText\bin\Debug\net6.0\example013_task1_editText.exe
+C:\Users\v6765\Desktop\Lessons\examples\example013_task1_editText\bin\Debug\net6.0\example013_task1_editText.deps.json
+C:\Users\v6765\Desktop\Lessons\examples\example013_task1_editText\bin\Debug\net6.0\example013_task1_editText.runtimeconfig.json
+C:\Users\v6765\Desktop\Lessons\examples\example013_task1_editText\bin\Debug\net6.0\example013_task1_editText.dll
+C:\Users\v6765\Desktop\Lessons\examples\example013_task1_editText\bin\Debug\net6.0\example013_task1_editText.pdb
+C:\Users\v6765\Desktop\Lessons\examples\example013_task1_editText\obj\Debug\net6.0\example013_task1_editText.dll
+C:\Users\v6765\Desktop\Lessons\examples\example013_task1_editText\obj\Debug\net6.0\refint\example013_task1_editText.dll
+C:\Users\v6765\Desktop\Lessons\examples\example013_task1_editText\obj\Debug\net6.0\example013_task1_editText.pdb
+C:\Users\v6765\Desktop\Lessons\examples\example013_task1_editText\obj\Debug\net6.0\example013_task1_editText.genruntimeconfig.cache
+C:\Users\v6765\Desktop\Lessons\examples\example013_task1_editText\obj\Debug\net6.0\ref\example013_task1_editText.dll

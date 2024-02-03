@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "example018_fuctorial/1.0.0": {
+        "runtime": {
+          "example018_fuctorial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "example018_fuctorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

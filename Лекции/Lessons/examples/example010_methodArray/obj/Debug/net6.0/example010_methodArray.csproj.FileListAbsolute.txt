@@ -1,0 +1,15 @@
+C:\Users\v6765\Desktop\Lessons\examples\example010_methodArray\bin\Debug\net6.0\example010_methodArray.exe
+C:\Users\v6765\Desktop\Lessons\examples\example010_methodArray\bin\Debug\net6.0\example010_methodArray.deps.json
+C:\Users\v6765\Desktop\Lessons\examples\example010_methodArray\bin\Debug\net6.0\example010_methodArray.runtimeconfig.json
+C:\Users\v6765\Desktop\Lessons\examples\example010_methodArray\bin\Debug\net6.0\example010_methodArray.dll
+C:\Users\v6765\Desktop\Lessons\examples\example010_methodArray\bin\Debug\net6.0\example010_methodArray.pdb
+C:\Users\v6765\Desktop\Lessons\examples\example010_methodArray\obj\Debug\net6.0\example010_methodArray.csproj.AssemblyReference.cache
+C:\Users\v6765\Desktop\Lessons\examples\example010_methodArray\obj\Debug\net6.0\example010_methodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v6765\Desktop\Lessons\examples\example010_methodArray\obj\Debug\net6.0\example010_methodArray.AssemblyInfoInputs.cache
+C:\Users\v6765\Desktop\Lessons\examples\example010_methodArray\obj\Debug\net6.0\example010_methodArray.AssemblyInfo.cs
+C:\Users\v6765\Desktop\Lessons\examples\example010_methodArray\obj\Debug\net6.0\example010_methodArray.csproj.CoreCompileInputs.cache
+C:\Users\v6765\Desktop\Lessons\examples\example010_methodArray\obj\Debug\net6.0\example010_methodArray.dll
+C:\Users\v6765\Desktop\Lessons\examples\example010_methodArray\obj\Debug\net6.0\refint\example010_methodArray.dll
+C:\Users\v6765\Desktop\Lessons\examples\example010_methodArray\obj\Debug\net6.0\example010_methodArray.pdb
+C:\Users\v6765\Desktop\Lessons\examples\example010_methodArray\obj\Debug\net6.0\example010_methodArray.genruntimeconfig.cache
+C:\Users\v6765\Desktop\Lessons\examples\example010_methodArray\obj\Debug\net6.0\ref\example010_methodArray.dll

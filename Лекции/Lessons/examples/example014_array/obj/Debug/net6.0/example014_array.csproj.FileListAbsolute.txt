@@ -1,0 +1,15 @@
+C:\Users\v6765\Desktop\Lessons\examples\example014_array\obj\Debug\net6.0\example014_array.csproj.AssemblyReference.cache
+C:\Users\v6765\Desktop\Lessons\examples\example014_array\obj\Debug\net6.0\example014_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v6765\Desktop\Lessons\examples\example014_array\obj\Debug\net6.0\example014_array.AssemblyInfoInputs.cache
+C:\Users\v6765\Desktop\Lessons\examples\example014_array\obj\Debug\net6.0\example014_array.AssemblyInfo.cs
+C:\Users\v6765\Desktop\Lessons\examples\example014_array\obj\Debug\net6.0\example014_array.csproj.CoreCompileInputs.cache
+C:\Users\v6765\Desktop\Lessons\examples\example014_array\bin\Debug\net6.0\example014_array.exe
+C:\Users\v6765\Desktop\Lessons\examples\example014_array\bin\Debug\net6.0\example014_array.deps.json
+C:\Users\v6765\Desktop\Lessons\examples\example014_array\bin\Debug\net6.0\example014_array.runtimeconfig.json
+C:\Users\v6765\Desktop\Lessons\examples\example014_array\bin\Debug\net6.0\example014_array.dll
+C:\Users\v6765\Desktop\Lessons\examples\example014_array\bin\Debug\net6.0\example014_array.pdb
+C:\Users\v6765\Desktop\Lessons\examples\example014_array\obj\Debug\net6.0\example014_array.dll
+C:\Users\v6765\Desktop\Lessons\examples\example014_array\obj\Debug\net6.0\refint\example014_array.dll
+C:\Users\v6765\Desktop\Lessons\examples\example014_array\obj\Debug\net6.0\example014_array.pdb
+C:\Users\v6765\Desktop\Lessons\examples\example014_array\obj\Debug\net6.0\example014_array.genruntimeconfig.cache
+C:\Users\v6765\Desktop\Lessons\examples\example014_array\obj\Debug\net6.0\ref\example014_array.dll

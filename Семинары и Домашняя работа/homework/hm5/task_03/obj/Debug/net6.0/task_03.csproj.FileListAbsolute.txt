@@ -1,0 +1,15 @@
+C:\Users\v6765\Desktop\Sem_C#\homework\hm5\task_03\bin\Debug\net6.0\task_03.exe
+C:\Users\v6765\Desktop\Sem_C#\homework\hm5\task_03\bin\Debug\net6.0\task_03.deps.json
+C:\Users\v6765\Desktop\Sem_C#\homework\hm5\task_03\bin\Debug\net6.0\task_03.runtimeconfig.json
+C:\Users\v6765\Desktop\Sem_C#\homework\hm5\task_03\bin\Debug\net6.0\task_03.dll
+C:\Users\v6765\Desktop\Sem_C#\homework\hm5\task_03\bin\Debug\net6.0\task_03.pdb
+C:\Users\v6765\Desktop\Sem_C#\homework\hm5\task_03\obj\Debug\net6.0\task_03.csproj.AssemblyReference.cache
+C:\Users\v6765\Desktop\Sem_C#\homework\hm5\task_03\obj\Debug\net6.0\task_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v6765\Desktop\Sem_C#\homework\hm5\task_03\obj\Debug\net6.0\task_03.AssemblyInfoInputs.cache
+C:\Users\v6765\Desktop\Sem_C#\homework\hm5\task_03\obj\Debug\net6.0\task_03.AssemblyInfo.cs
+C:\Users\v6765\Desktop\Sem_C#\homework\hm5\task_03\obj\Debug\net6.0\task_03.csproj.CoreCompileInputs.cache
+C:\Users\v6765\Desktop\Sem_C#\homework\hm5\task_03\obj\Debug\net6.0\task_03.dll
+C:\Users\v6765\Desktop\Sem_C#\homework\hm5\task_03\obj\Debug\net6.0\refint\task_03.dll
+C:\Users\v6765\Desktop\Sem_C#\homework\hm5\task_03\obj\Debug\net6.0\task_03.pdb
+C:\Users\v6765\Desktop\Sem_C#\homework\hm5\task_03\obj\Debug\net6.0\task_03.genruntimeconfig.cache
+C:\Users\v6765\Desktop\Sem_C#\homework\hm5\task_03\obj\Debug\net6.0\ref\task_03.dll

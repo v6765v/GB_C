@@ -1,0 +1,15 @@
+C:\Users\v6765\Desktop\Lessons\examples\example019_fibonacci\bin\Debug\net6.0\example019_fibonacci.exe
+C:\Users\v6765\Desktop\Lessons\examples\example019_fibonacci\bin\Debug\net6.0\example019_fibonacci.deps.json
+C:\Users\v6765\Desktop\Lessons\examples\example019_fibonacci\bin\Debug\net6.0\example019_fibonacci.runtimeconfig.json
+C:\Users\v6765\Desktop\Lessons\examples\example019_fibonacci\bin\Debug\net6.0\example019_fibonacci.dll
+C:\Users\v6765\Desktop\Lessons\examples\example019_fibonacci\bin\Debug\net6.0\example019_fibonacci.pdb
+C:\Users\v6765\Desktop\Lessons\examples\example019_fibonacci\obj\Debug\net6.0\example019_fibonacci.csproj.AssemblyReference.cache
+C:\Users\v6765\Desktop\Lessons\examples\example019_fibonacci\obj\Debug\net6.0\example019_fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v6765\Desktop\Lessons\examples\example019_fibonacci\obj\Debug\net6.0\example019_fibonacci.AssemblyInfoInputs.cache
+C:\Users\v6765\Desktop\Lessons\examples\example019_fibonacci\obj\Debug\net6.0\example019_fibonacci.AssemblyInfo.cs
+C:\Users\v6765\Desktop\Lessons\examples\example019_fibonacci\obj\Debug\net6.0\example019_fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\v6765\Desktop\Lessons\examples\example019_fibonacci\obj\Debug\net6.0\example019_fibonacci.dll
+C:\Users\v6765\Desktop\Lessons\examples\example019_fibonacci\obj\Debug\net6.0\refint\example019_fibonacci.dll
+C:\Users\v6765\Desktop\Lessons\examples\example019_fibonacci\obj\Debug\net6.0\example019_fibonacci.pdb
+C:\Users\v6765\Desktop\Lessons\examples\example019_fibonacci\obj\Debug\net6.0\example019_fibonacci.genruntimeconfig.cache
+C:\Users\v6765\Desktop\Lessons\examples\example019_fibonacci\obj\Debug\net6.0\ref\example019_fibonacci.dll

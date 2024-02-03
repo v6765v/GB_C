@@ -1,0 +1,15 @@
+C:\Users\v6765\Desktop\Lessons\examples\example012_methods\bin\Debug\net6.0\example012_methods.exe
+C:\Users\v6765\Desktop\Lessons\examples\example012_methods\bin\Debug\net6.0\example012_methods.deps.json
+C:\Users\v6765\Desktop\Lessons\examples\example012_methods\bin\Debug\net6.0\example012_methods.runtimeconfig.json
+C:\Users\v6765\Desktop\Lessons\examples\example012_methods\bin\Debug\net6.0\example012_methods.dll
+C:\Users\v6765\Desktop\Lessons\examples\example012_methods\bin\Debug\net6.0\example012_methods.pdb
+C:\Users\v6765\Desktop\Lessons\examples\example012_methods\obj\Debug\net6.0\example012_methods.csproj.AssemblyReference.cache
+C:\Users\v6765\Desktop\Lessons\examples\example012_methods\obj\Debug\net6.0\example012_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v6765\Desktop\Lessons\examples\example012_methods\obj\Debug\net6.0\example012_methods.AssemblyInfoInputs.cache
+C:\Users\v6765\Desktop\Lessons\examples\example012_methods\obj\Debug\net6.0\example012_methods.AssemblyInfo.cs
+C:\Users\v6765\Desktop\Lessons\examples\example012_methods\obj\Debug\net6.0\example012_methods.csproj.CoreCompileInputs.cache
+C:\Users\v6765\Desktop\Lessons\examples\example012_methods\obj\Debug\net6.0\example012_methods.dll
+C:\Users\v6765\Desktop\Lessons\examples\example012_methods\obj\Debug\net6.0\refint\example012_methods.dll
+C:\Users\v6765\Desktop\Lessons\examples\example012_methods\obj\Debug\net6.0\example012_methods.pdb
+C:\Users\v6765\Desktop\Lessons\examples\example012_methods\obj\Debug\net6.0\example012_methods.genruntimeconfig.cache
+C:\Users\v6765\Desktop\Lessons\examples\example012_methods\obj\Debug\net6.0\ref\example012_methods.dll
